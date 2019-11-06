@@ -9,51 +9,34 @@ class DataSource {
             val list = ArrayList<BlogPost>()
             list.add(
                 BlogPost(
-                    "Congratulations!",
-                    "You made it to the end of the course!\r\n\r\nNext we'll be building the REST API!",
-                    "https://raw.githubusercontent.com/mitchtabian/Blog-Images/master/digital_ocean.png",
-                    "Sally"
+                    "Communication is the key to success!",
+                    "body text example",
+                    "https://www.pngkey.com/png/full/83-839719_banner-ultimate-esl-teaching-manual.png",
+                    "Pâmella"
                 )
             )
             list.add(
                 BlogPost(
-                    "Time to Build a Kotlin App!",
-                    "The REST API course is complete. You can find the videos here: https://codingwithmitch.com/courses/build-a-rest-api/.",
-                    "https://raw.githubusercontent.com/mitchtabian/Kotlin-RecyclerView-Example/json-data-source/app/src/main/res/drawable/time_to_build_a_kotlin_app.png",
-                    "mitch"
-                )
-            )
-
-            list.add(
-                BlogPost(
-                    "Interviewing a Web Developer and YouTuber",
-                    "Justin has been producing online courses for YouTube, Udemy, and his website CodingForEntrepreneurs.com for over 5 years.",
-                    "https://raw.githubusercontent.com/mitchtabian/Kotlin-RecyclerView-Example/json-data-source/app/src/main/res/drawable/coding_for_entrepreneurs.png",
-                    "John"
+                    "Data Visualization!",
+                    "body text example",
+                    "https://image.freepik.com/vetores-gratis/design-de-banner-de-fundo-de-tecnologia-digital_1017-14297.jpg",
+                    "Taysa"
                 )
             )
             list.add(
                 BlogPost(
-                    "Full Stack Web Developer - Nicholas Olsen",
-                    "In this podcast I interviewed the Fullsnack Developer (AKA Nicholas Olsen).\\r\\n\\r\\nNicholas is many things. What I mean by that is, he's good at many things.\\r\\n\\r\\n1. He’s an entrepreneur\\r\\n\\r\\n2. Web developer\\r\\n\\r\\n3. Artist\\r\\n\\r\\n4. Graphic designer\\r\\n\\r\\n5. Musician (drums)\\r\\n\\r\\n6. Professional BodyBuilder.",
-                    "https://raw.githubusercontent.com/mitchtabian/Kotlin-RecyclerView-Example/json-data-source/app/src/main/res/drawable/fullsnack_developer.png",
-                    "Guy"
+                    "Cloud Computing",
+                    "body text example",
+                    "https://static.vecteezy.com/system/resources/previews/000/270/928/non_2x/vector-cloud-technology-web-banner.jpg",
+                    "Álamo"
                 )
             )
             list.add(
                 BlogPost(
-                    "Javascript Expert - Wes Bos",
-                    "Interviewing a web developer, javascript expert, entrepreneur, freelancer, podcaster, and much more.",
-                    "https://raw.githubusercontent.com/mitchtabian/Kotlin-RecyclerView-Example/json-data-source/app/src/main/res/drawable/javascript_expert_wes_bos.png",
-                    "Ruby"
-                )
-            )
-            list.add(
-                BlogPost(
-                    "Senior Android Engineer - Kaushik Gopal",
-                    "Kaushik Gopal is a Senior Android Engineer working in Silicon Valley.\r\n\r\nHe works as a Senior Staff engineer at Instacart.\r\n\r\nInstacart: https://www.instacart.com/",
-                    "https://raw.githubusercontent.com/mitchtabian/Kotlin-RecyclerView-Example/json-data-source/app/src/main/res/drawable/senior_android_engineer_kaushik_gopal.png",
-                    "mitch"
+                    "Backend",
+                    "body text example",
+                    "https://img.freepik.com/free-vector/digital-technology-background-with-glowing-lines-mesh_1017-17208.jpg?size=626&ext=jpg",
+                    "Dynnah"
                 )
             )
 
